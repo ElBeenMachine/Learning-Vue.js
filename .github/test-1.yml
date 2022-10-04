@@ -6,7 +6,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-              cd "1. Creating a Vue.js app/client"
+              cd "# Final Project/client"
               npm ci
               npm run build
               npm run test:unit
