@@ -1,4 +1,4 @@
-name: Run Unit Tests and Lint Files
+name: Run bulid test and lint files
 "on": push
 jobs:
   unit_test-lint:
@@ -6,7 +6,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-              cd "# Final Project/client"
+              cd "/# Final Project/client"
               npm ci
               npm run build
               npm run lint

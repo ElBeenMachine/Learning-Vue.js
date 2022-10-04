@@ -11,7 +11,6 @@
 
 This repository contains all of my progress through my journey of learning Vue.js
 
-## Contents
+## Viewing Projects
 
-0) [My Final Project](/%23%20Final%20Project/)
-1) [Creating a Vue.js app](/1.%20Creating%20a%20Vue.js%20app/)
+Use `vue ui` to view the projects in the view manager.
