@@ -1,24 +1,17 @@
-# learning-vue.js
+<div align = "center">
 
-## Project setup
-```
-npm install
-```
+# Learning Vue.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<a href = "https://vuejs.org"><img height="200" src = "https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.png">
+</div></a>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<br>
 
-### Lints and fixes files
-```
-npm run lint
-```
+## About
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This repository contains all of my progress through my journey of learning Vue.js
+
+## Project Scripts
+
+Use `npm run serve` to run the project in development mode
+Use `npm run build` to build the project for production
