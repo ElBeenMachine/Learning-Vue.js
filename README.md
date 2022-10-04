@@ -14,4 +14,5 @@ This repository contains all of my progress through my journey of learning Vue.j
 ## Project Scripts
 
 Use `npm run serve` to run the project in development mode
+
 Use `npm run build` to build the project for production
