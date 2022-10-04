@@ -6,7 +6,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-              cd "/# Final Project/client"
+              cd "Final Project/client"
               npm ci
               npm run build
               npm run lint
